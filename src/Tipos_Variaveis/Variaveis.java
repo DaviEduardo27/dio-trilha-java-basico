@@ -1,4 +1,4 @@
-package Anatomia_Classes;
+package Tipos_Variaveis;
 
 public class Variaveis {
     public static void main(String[] args){
